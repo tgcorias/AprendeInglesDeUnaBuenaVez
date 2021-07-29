@@ -14,7 +14,7 @@ body{
 }
 #header{
     width: 80%;
-    background: #4880e9;
+    background: #4666f3;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
     color: white;
     font-weight: bold;
@@ -35,11 +35,11 @@ body{
 .map{
     width: 80%;
     height: 201px;
-    background-color: rgb(252, 168, 73);
+    background-color: rgb(167, 238, 228);
     margin-top: 2px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
     padding: 0% 3%;
     box-sizing: border-box;
