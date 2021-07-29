@@ -93,7 +93,7 @@ body{
 }
 .square:hover{
     cursor: pointer;
-    text-decoration: underline;
+    text-decoration: none;
     color: white;
     background-color: rgba(77, 75, 75, 0.342);
     transition: 750ms;
@@ -105,10 +105,9 @@ body{
     background-color: #ff9c46;
 }
 .squareA3{
-    background-color: #ff3e68;
+    background-color: #fc5075;
 }
 .squareB1{
-   
     background-color: rgb(119, 172, 252);
 }
 .squareB2{
