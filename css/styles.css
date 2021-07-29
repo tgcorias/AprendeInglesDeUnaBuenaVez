@@ -25,17 +25,33 @@ body{
     width: 20px;
     vertical-align: middle;
 }
-
 .mapContenedor{
     width: 100%;
     display: flex;
     justify-content: center;
     
 }
+
 .map{
     width: 80%;
     height: 201px;
-    background-color: silver;
+    background-color: rgb(226, 175, 81);
+    margin-top: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
+}
+.sliderContenedor{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.slider{
+    width: 80%;
+    height: 100px;
+    background-color: rgb(104, 240, 144);
     margin-top: 2px;
     display: flex;
     align-items: center;
