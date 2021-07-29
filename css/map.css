@@ -19,6 +19,29 @@
     background-color: rgba(255,255,255,0.5);
     transition: 450ms;
 }
-.line-1{
-
+.line-1, .line-2, .line-3, .line-4, .line-5{
+    width: 90px;
+    height: 23px;
+    margin: 0;
+    border: solid 5px #000;
+    border-color: #000 transparent transparent transparent;
+    border-radius: 363%/207px 145px 0 0;
+}
+.a1{
+    background: #78e486;
+}
+.a2{
+    background: #5df171;
+}
+.b1{
+    background: #e4f35d;
+}
+.b2{
+    background: #f3d138;
+}
+.c1{
+    background: #ee8732;
+}
+.c2{
+    background: #e95f5f;
 }
