@@ -58,3 +58,18 @@ body{
     justify-content: center;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
 }
+.contenidosContenedor{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.contenidos{
+    width: 80%;
+    height: 45vh;
+    background-color: rgb(193, 103, 235);
+    margin-top: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
+}
