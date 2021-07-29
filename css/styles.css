@@ -76,18 +76,17 @@ body{
 .row{
     width: 100%;
     height: 22vh;
-    
     display: flex;
     
 }
 .square{
     width: 33.333333%;
     height: 22vh;
-    border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(193, 103, 235);
+    border: 2px solid black;
+    background-color: rgb(192, 98, 230);
     text-decoration: none;
     color: black;
    
@@ -98,4 +97,23 @@ body{
     color: white;
     background-color: rgba(77, 75, 75, 0.342);
     transition: 750ms;
+}
+.squareA1{
+    background-color: #ffc34b;
+}
+.squareA2{
+    background-color: #ff9c46;
+}
+.squareA3{
+    background-color: #ff3e68;
+}
+.squareB1{
+   
+    background-color: rgb(119, 172, 252);
+}
+.squareB2{
+    background-color: rgb(205, 137, 250);
+}
+.squareB3{
+    background-color: rgb(245, 186, 220);
 }
