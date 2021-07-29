@@ -35,12 +35,14 @@ body{
 .map{
     width: 80%;
     height: 201px;
-    background-color: rgb(226, 175, 81);
+    background-color: rgb(252, 168, 73);
     margin-top: 2px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
+    padding: 0% 3%;
+    box-sizing: border-box;
 }
 .sliderContenedor{
     width: 100%;
@@ -94,6 +96,6 @@ body{
     cursor: pointer;
     text-decoration: underline;
     color: white;
-    background-color: rgba(0, 0, 0, 0.342);
-    transition: 650ms;
+    background-color: rgba(77, 75, 75, 0.342);
+    transition: 750ms;
 }
