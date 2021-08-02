@@ -1,0 +1,76 @@
+:root{
+    --A1-softGreen: #B6F8C0;
+    --A2-green:#5DF171;
+    --B1-yellow:#F2FF78;
+    --B2-softOrange:#F3D138;
+    --C1-orange:#EE8732;
+    --C2-red:#E95F5F;
+}
+
+.map__container{
+    width: 80%;
+    height: 201px;
+    background-color: rgb(84, 173, 245);
+    margin-top: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
+    padding: 0% 3%;
+    box-sizing: border-box;
+}
+
+.circle--container{
+    width: 33%;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.circle{
+
+    width: 50px;
+    height: 50px;
+
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.8);  
+    background: #f371b2;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-family:'Raleway';
+    font-weight:bolder;
+    text-decoration: none;
+    color: black;
+
+}
+.circle:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.7);
+    transition: 450ms;
+    color: white;
+}
+.a1{
+    background: var(--A1-softGreen);
+}
+.a2{
+    background: var(--A2-green);
+}
+.b1{
+    background: var(--B1-yellow);
+}
+.b2{
+    background: var(--B2-softOrange);
+}
+.c1{
+    background: var(--C1-orange);
+}
+.c2{
+    background: var(--C2-red);
+}

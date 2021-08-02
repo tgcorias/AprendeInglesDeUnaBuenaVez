@@ -1,0 +1,63 @@
+:root{
+    --softOrange:#FFC34B;
+    --orange:#FF9C46;
+    --red:#FC5075;
+    --purple:#CA7AFF;
+    --ds-blue:#798DFC;
+    --credits-gray:#949393;
+    --gray-letters:#eee;
+}
+
+.squares__content--container{ 
+    width: 80%;
+    height: 66.2vh;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
+}
+.row{
+    width: 100%;
+    height: 22vh;
+    display: flex;
+    margin-bottom: 3px;
+    
+}
+.square{
+    width: 50%;
+    height: 22vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    background-color: rgb(192, 98, 230);
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(40, 40, 40);
+}
+.square:hover{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(77, 75, 75, 0.342);
+    transition: 750ms;
+}
+.squareA1{
+    background-color: var(--softOrange);
+}
+.squareA2{
+    background-color: var(--orange);
+}
+.squareA3{
+    background-color: var(--red);
+}
+.squareB1{
+    background-color: var(--ds-blue)
+}
+.squareB2{
+    background-color: var(--purple);
+}
+.squareB3{
+    background-color: var(--credits-gray);
+}
