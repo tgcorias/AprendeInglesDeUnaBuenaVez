@@ -10,26 +10,21 @@
 
 /* SECCIONES QUIZ*/
 .quiz__container--html{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    margin: 5% 0%;
+    margin: 2% 0% 0% 0%;
     color: white;
 }
 .quiz__container--general{
-    width: 80%;
-    height: 67vh;
-    background:var(--container-bg);
-    box-shadow: var(--shadow-box);
+    height: 62vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 .answer input{
     width: 25px;
     height: 25px;
+}
+.button{
+    width: 20%;
 }

@@ -20,7 +20,7 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
-    margin: 15% 0%;
+    margin: 5% 0% 0% 0%;
     color: white;
 }
 .quiz__container--general, h3{
@@ -49,4 +49,24 @@
 .answer input{
     width: 30px;
     height: 30px;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.buttons__container{
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 5%;
+}
+.button{
+    width: 50%;
+    height: 40px;
+    background-color: #6DB56C;
+    font-family: 'Raleway';
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(214, 214, 214);
 }
