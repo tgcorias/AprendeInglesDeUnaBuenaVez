@@ -1,14 +1,14 @@
 :root{
     /*Colores*/
-    --bg-gray:#1e1f24;
+    --bg-gray:#333;
     --header-blue: #4666F3;
     --slider-green: #68F090;
     --map-aqua: #78ECD7; 
-    
+    --shadow-box: 0px 2px 20px 0px rgba(0,0,0,0.8);
 }
 /*BOX SIZING*/
 body{
-    background: #1e1f24;
+    background: var(--bg-gray);
     color: #333;
     text-align: center;
     font-family: 'Raleway', sans-serif;
@@ -28,7 +28,7 @@ header{
 .header__title--container{
     width: 80%;
     background-color: var(--header-blue);
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
+    box-shadow:var(--shadow-box);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -48,7 +48,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.8);
+    box-shadow: var(--shadow-box);
     background-color: var(--slider-green);
 }
 

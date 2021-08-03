@@ -7,3 +7,29 @@
 .slider__title--container{
     font-size: 18px;
 }
+
+/* SECCIONES QUIZ*/
+.quiz__container--html{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 5% 0%;
+    color: white;
+}
+.quiz__container--general{
+    width: 80%;
+    height: 67vh;
+    background:var(--container-bg);
+    box-shadow: var(--shadow-box);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.answer input{
+    width: 25px;
+    height: 25px;
+}
