@@ -1,0 +1,36 @@
+[
+    {
+        "Categoría":"Nivelación",
+        "Pregunta":"¿Esto es una pregunta????",
+        "RtaCorrecta":"Correcta ejemplo",
+        "Incorrecta1":"Incorrecta",
+        "Incorrecta2":"Incorrecta",
+        "Incorrecta3":"Incorrecta"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Pregunta":"¿Eaaaaasto es una pregunta?",
+        "RtaCorrecta":"Correcta ejemplo",
+        "Incorrecta1":"Incorrecta",
+        "Incorrecta2":"Incorrecta",
+        "Incorrecta3":"Incorrecta"
+    },
+    {
+        "Categoría":"Nivelación",
+        "Pregunta":"¿Esto esssss una pregunta?",
+        "RtaCorrecta":"Correcta ejemplo",
+        "Incorrecta1":"Incorrecta",
+        "Incorrecta2":"Incorrecta",
+        "Incorrecta3":"Incorrecta"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Pregunta":"¿Esto es una ddddpregunta?",
+        "RtaCorrecta":"Correcta ejemplo",
+        "Incorrecta1":"Incorrecta",
+        "Incorrecta2":"Incorrecta",
+        "Incorrecta3":"Incorrecta"
+    }
+]

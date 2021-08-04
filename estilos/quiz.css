@@ -45,11 +45,15 @@
     border-radius:2px;
     display: flex;
     align-items: center;
+    justify-content: left;
+    padding-left: 5%;
 }
-.answer input{
-    width: 30px;
-    height: 30px;
+.answer:hover{
+    background-color: #d7f3b3bd;
+    transition: 350ms;
 }
+
+
 .buttons{
     width: 100%;
     display: flex;
