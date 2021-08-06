@@ -1,36 +1,101 @@
 [
     {
         "Categoría":"Nivelación",
-        "Pregunta":"¿Esto es una pregunta????",
-        "RtaCorrecta":"Correcta ejemplo",
-        "Incorrecta1":"Incorrecta",
-        "Incorrecta2":"Incorrecta",
-        "Incorrecta3":"Incorrecta"
+        "Nivel": "A1",
+        "Pregunta":"He's married an he has two ____",
+        "RtaCorrecta":"children",
+        "Incorrecta1":"child",
+        "Incorrecta2":"chillis",
+        "Incorrecta3":"childs"
     },
 
     {
         "Categoría":"Nivelación",
-        "Pregunta":"¿Eaaaaasto es una pregunta?",
-        "RtaCorrecta":"Correcta ejemplo",
-        "Incorrecta1":"Incorrecta",
-        "Incorrecta2":"Incorrecta",
-        "Incorrecta3":"Incorrecta"
-    },
-    {
-        "Categoría":"Nivelación",
-        "Pregunta":"¿Esto esssss una pregunta?",
-        "RtaCorrecta":"Correcta ejemplo",
-        "Incorrecta1":"Incorrecta",
-        "Incorrecta2":"Incorrecta",
-        "Incorrecta3":"Incorrecta"
+        "Nivel": "A1",
+        "Pregunta":"She is usually in bed by ____ (11.30)",
+        "RtaCorrecta":"half past eleven",
+        "Incorrecta1":"eleven past thirty",
+        "Incorrecta2":"eleven past half",
+        "Incorrecta3":"thirty to eleven"
     },
 
     {
         "Categoría":"Nivelación",
-        "Pregunta":"¿Esto es una ddddpregunta?",
-        "RtaCorrecta":"Correcta ejemplo",
-        "Incorrecta1":"Incorrecta",
-        "Incorrecta2":"Incorrecta",
-        "Incorrecta3":"Incorrecta"
+        "Nivel": "A1",
+        "Pregunta":"____ to the cinema?",
+        "RtaCorrecta":"Do you go",
+        "Incorrecta1":"You go",
+        "Incorrecta2":"She goes",
+        "Incorrecta3":"Do she go"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Nivel": "A1",
+        "Pregunta":"____ to a concert. The concert ____ at 7.30",
+        "RtaCorrecta":"I'm going, starts",
+        "Incorrecta1":"I go, starts",
+        "Incorrecta2":"I'm going, is starting",
+        "Incorrecta3":"I go, is starting"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Nivel": "A1",
+        "Pregunta":"You ____ smoke here as you ____ cause a fire.",
+        "RtaCorrecta":"mustn't, may",
+        "Incorrecta1":"must, may",
+        "Incorrecta2":"mustn't, may not",
+        "Incorrecta3":"mustn't, mayn't"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Nivel": "A1",
+        "Pregunta": "____ I don't see you before, have a nice holiday.",
+        "RtaCorrecta":"In case",
+        "Incorrecta1":"Unless",
+        "Incorrecta2":"As soon as",
+        "Incorrecta3":"You"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Nivel": "A1",
+        "Pregunta":"____ any eggs for breakfast this morning",
+        "RtaCorrecta":"There weren't",
+        "Incorrecta1":"There were",
+        "Incorrecta2":"There was",
+        "Incorrecta3":"There would"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Nivel": "A1",
+        "Pregunta":"He ____ playing chess at the age of 7",
+        "RtaCorrecta":"started",
+        "Incorrecta1":"starts",
+        "Incorrecta2":"is starting",
+        "Incorrecta3":"start"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Nivel": "A1",
+        "Pregunta":"A: 'Have you got a bike?' B:'Yes, I ____'",
+        "RtaCorrecta":"have",
+        "Incorrecta1":"'ve got'",
+        "Incorrecta2":"have got",
+        "Incorrecta3":"do"
+    },
+
+    {
+        "Categoría":"Nivelación",
+        "Nivel": "A1",
+        "Pregunta":"It was very late, ____ we took a taxi",
+        "RtaCorrecta":"so",
+        "Incorrecta1":"but",
+        "Incorrecta2":"and",
+        "Incorrecta3":"because"
     }
 ]
